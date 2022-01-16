@@ -1,0 +1,29 @@
+[
+ {
+  "name": "Black Horizon",
+  "favoredReligion": "Chaos",
+  "leaderName": "????",
+  "adjective": "Cultists",
+  "startBias": ["Coast", "Grassland"],
+  "preferredVictoryType": "Diplomatic",
+ 
+  "startIntroPart1": "Hail our Glorious Leader, he who shall bring us to greatness!",
+  "startIntroPart2": "Dear Leader, will you be able to build up a nation from humble beginnings that will stand the test of time?",
+  
+  "declaringWar": "Soon your walls shall crumble and we shall rule once more",
+  "attacked": "Your will may be strong, but our fortifications are stronger",
+  "defeated": "Impossible... our walls have failed us, and they shall fail you too due to your insolence",
+  "introduction": "Greetings, are you here to admire our fortresses?",
+  
+  "neutralHello": "May our bond be as strong as our walls",
+  "hateHello": "Your time will come...",
+
+  "tradeRequest": "This deal may benefit us both greatly",
+ 
+  "outerColor": [40,40,49],
+  "innerColor": [209,207,130],
+  "uniqueName": "Hold the Line",
+  "uniques": ["[+2 Production,+1 Happiness] from every [Stone Works]","[+2 Culture] from every [Walls]","[-30]% tile improvement construction time","[Great Engineer] is earned [100]% faster","Units fight as though they were at full strength even when damaged","[+2 Production] from every specialist [in all cities]","+[10]% Strength if within [2] tiles of a [Fort]","+[30]% Strength if within [2] tiles of a [Citadel]","No Maintenance costs for improvements in [Hill] tiles"],
+  "cities": ["Iron Citadel", "Stonehold","Elderstock", "Tornbridge","Wardford", "Dragonspire","Nightwell","Ghoulpass", "Brimstone","Winterhold","Grimtoll","Ironwood","Dawnton"]
+ }
+]
